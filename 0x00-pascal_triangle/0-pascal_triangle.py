@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Sript returns a list of lists of integers representing the
    Pascal’s triangle of n.
 """
