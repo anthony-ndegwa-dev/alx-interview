@@ -5,6 +5,7 @@
 
 
 def pascal_triangle(n):
+    """Create list of lists of integers representing Pascal’s triangle n"""
     if n <= 0:
         return []
 
