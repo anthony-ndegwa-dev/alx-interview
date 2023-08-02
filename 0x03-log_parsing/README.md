@@ -2,15 +2,7 @@
 
 ## Algorithm   Python
 
-## Requirements
-
-    All files should end with a new line
-    The first line should be exactly #!/usr/bin/python3
-    Code should use PEP 8 style (version 1.7.x)
-    File must be executable
-   
-
-## Task 0: Log parsing
+## Task
 
     Write a script that reads stdin line by line and computes metrics:
 
