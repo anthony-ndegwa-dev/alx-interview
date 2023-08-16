@@ -21,4 +21,3 @@ result = rotate_2d_matrix(matrix)
 # Print the result
 for row in result:
     print(row)
-
