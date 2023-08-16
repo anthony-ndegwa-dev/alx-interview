@@ -15,10 +15,8 @@ def rotate_2d_matrix(matrix):
         matrix[i] = matrix[i][::-1]
 
     return matrix
+    
+    result = rotate_2d_matrix(matrix)
 
-
-result = rotate_2d_matrix(matrix)
-
-# Print the result
-for row in result:
-    print(row)
+    for row in result:
+        print(row)
