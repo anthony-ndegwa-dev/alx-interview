@@ -4,6 +4,7 @@
 
 
 def rotate_2d_matrix(matrix):
+    """Function to rotate the matrix"""
     n = len(matrix)
 
     for i in range(n):
