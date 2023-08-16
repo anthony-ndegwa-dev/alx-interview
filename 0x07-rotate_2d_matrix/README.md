@@ -8,10 +8,10 @@
   - Do not return anything. The matrix must be edited in-place.
   - You can assume the matrix will have 2 dimensions and will not be empty.
 
-* Given matrix = `[[1, 2, 3],`
-                  `[4, 5, 6],`
-                  `[7, 8, 9]]`
+* Given matrix = matrix = [[1, 2, 3],
+[4, 5, 6],
+[7, 8, 9]]
 
-* Should return `[[7, 4, 1],`
-                 `[8, 5, 2],`
-                 `[9, 6, 3]]`
+* Should return [[7, 4, 1],
+[8, 5, 2],
+[9, 6, 3]]
