@@ -8,7 +8,6 @@
   - Do not return anything. The matrix must be edited in-place.
   - You can assume the matrix will have 2 dimensions and will not be empty.
 
-* Given
 ```python
 Input = [[1, 2, 3],
          [4, 5, 6],
