@@ -16,7 +16,7 @@ def rotate_2d_matrix(matrix):
 
     return matrix
 
-# Get the rotated matrix
+
 result = rotate_2d_matrix(matrix)
 
 # Print the result
